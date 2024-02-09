@@ -1,9 +1,12 @@
-import './App.css';
+import React from 'react';
+import Card from './components/Card'
+
 
 function App() {
   return (
     <div>
       <h1>Hola Mundo desde ract</h1>
+      <Card />
     </div>
   );
 }

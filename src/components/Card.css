@@ -1,0 +1,11 @@
+.Card-container {
+    width: 100%;
+    max-width: 280px;
+    height: auto;
+    border: 1px solid rgba(251, 177, 59, 0.200);
+    margin: 0 auto 36px auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    overflow: hidden;
+}
